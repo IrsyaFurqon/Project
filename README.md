@@ -4,3 +4,6 @@ https://wokwi.com/projects/449101794802130945  this for the simple way to my fir
 
 This is the second Projects
 https://wokwi.com/projects/449104986811952129
+
+This is the 3rd Project
+https://wokwi.com/projects/449106405659342849
